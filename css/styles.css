@@ -1,6 +1,11 @@
+body {
+    font-family: "montserrat", sans-serif;
+}
+
 /* Title Secion */
 #title {
     background-color: #ff4c68;
+    color:#fff;
 }
 
 .container-fluid {
