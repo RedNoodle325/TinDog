@@ -21,7 +21,7 @@ h1 {
 /* Navigation Bar */
 
 .navbar {
-    padding-bottom: 4.5rem;
+    padding: 0 0 4.5rem 0;
 }
 
 .navbar-brand {
