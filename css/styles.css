@@ -13,3 +13,24 @@ h1 {
     font-weight: 900;
 }
 
+.btn-light {
+    background-color: #ff4c68;
+    border-color: #ff4c68;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    padding: 1.5rem 3rem;
+    border-radius: 0;
+}
+
+.btn-dark {
+    background-color: #000;
+    border-color: #000;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    padding: 1.5rem 3rem;
+    border-radius: 0;
+}
