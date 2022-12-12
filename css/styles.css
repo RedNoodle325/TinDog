@@ -13,6 +13,7 @@ h1 {
     font-weight: 900;
 }
 
-.rotated {
-    transform: rotate(45deg);
+.dogimg {
+    position:relative;
+    top: 25%;
 }
