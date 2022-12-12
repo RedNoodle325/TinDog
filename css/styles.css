@@ -13,8 +13,18 @@ h1 {
     font-weight: 900;
 }
 
-.rotated {
-    transform: rotate(45deg);
-    position: absolute;
-    top: 200px;
+/* Navigation Bar */
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntur", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
 }
