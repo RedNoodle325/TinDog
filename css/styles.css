@@ -19,6 +19,13 @@ h1 {
     font-weight: 900;
 }
 
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
 .title-img {
     transform: rotate(25deg);
     width: 57%;
@@ -52,6 +59,13 @@ h1 {
     margin: 5% 3% 5% 0;
 }
 /* Features Section */
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    text-align: center;
+}
+
+
 .feature-icon {
     color: #ef8172;
     font-size: 4rem;
@@ -81,4 +95,27 @@ h1 {
     color: #ff4c68;
 }
 
-/* About Section */
+/* Testimonials Section */
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px 20px;
+}
